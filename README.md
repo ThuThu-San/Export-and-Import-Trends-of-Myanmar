@@ -7,7 +7,7 @@ The dataset used in this project is referenced from World Integrated Trade Solut
 
 # Technologies Used 
 - Data Visualisation
-- Python
+- Python [pandas, numpy, seaborn, matplotlib.pyplot]
 - Jupyter Notebook
 
 # Disclaimer
