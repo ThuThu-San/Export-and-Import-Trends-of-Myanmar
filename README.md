@@ -6,7 +6,6 @@ The trading sector has been severely impacted because of these two double crises
 The dataset used in this project is referenced from World Integrated Trade Solution (WITS) website.
 
 # Technologies Used 
-- Data Visualisation
 - Python [pandas, numpy, seaborn, matplotlib.pyplot]
 - Jupyter Notebook
 
